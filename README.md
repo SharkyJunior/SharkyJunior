@@ -9,6 +9,7 @@
 
 ###### My projects:
 - 🐸 Froggy. A multi-functional discord bot which is currently WIP and being rewritten on a different library.
+- Telegram Notifications Bot. A simple bot which handles and notitficates user about his tasks (making it just to understand how telegram bot works in python).
 
 ###### My socials:
 - 📧 Email: applemylove222@gmail.com
