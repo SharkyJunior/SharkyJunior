@@ -18,4 +18,4 @@
 - [YouTube](https://www.youtube.com/channel/UCI13wehCNEA9huT6fn76OEw) (yup i post some vids there but it's very rare).
 
 ###### My stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharkyJunior)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharkyJunior&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
