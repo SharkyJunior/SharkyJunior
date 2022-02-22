@@ -18,6 +18,6 @@
 - [YouTube](https://www.youtube.com/channel/UCI13wehCNEA9huT6fn76OEw) (yup i post some vids there but it's very rare).
 
 ###### My stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharkyJunior&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharkyJunior&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharkyJunior&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharkyJunior&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
