@@ -5,6 +5,7 @@
 - I'm 15 y.o.
 - I work with Python.
 - I study C# at school.
+- I'm currently learning python-telegram-bot
 - I'm learning Android Studio / Swift for mobile developing.
 
 ###### My projects:
@@ -16,17 +17,5 @@
 - [Reddit](https://www.reddit.com/user/SharkyJunior)
 - [YouTube](https://www.youtube.com/channel/UCI13wehCNEA9huT6fn76OEw) (yup i post some vids there but it's very rare).
 
-<!--
-**SharkyJunior/SharkyJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you starte
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### My stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharkyJunior)](https://github.com/anuraghazra/github-readme-stats)
