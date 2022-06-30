@@ -7,10 +7,11 @@
 - I study C# at school.
 - I'm currently learning python-telegram-bot
 - I'm learning Android Studio / Swift for mobile developing.
+- Trying to find a work for probation.
 
 ###### My projects:
 - 🐸 Froggy. A multi-functional discord bot which is currently WIP and being rewritten on a different library.
-- Telegram Notifications Bot. A simple bot which handles and notitficates user about his tasks (making it just to understand how telegram bot works in python).
+- Social Credit Bot. A simple telegram bot that handles messages and manages users' social credit. Im too lazy to explain, its just a bot for a silly purpose.
 
 ###### My socials:
 - 📧 Email: applemylove222@gmail.com
