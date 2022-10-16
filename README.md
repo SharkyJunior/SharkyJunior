@@ -6,7 +6,7 @@
 - I worked with Python.
 - I study C# at school.
 - Currently I attend Yandex intensive and study Django development there.
-- Trying to find a work for probation.
+- Trying to find a work for internship.
 
 ###### My projects:
 - 🐸 Froggy. A multi-functional discord bot which is currently WIP and being rewritten on a different library.
