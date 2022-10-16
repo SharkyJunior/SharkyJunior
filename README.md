@@ -3,7 +3,7 @@
 ###### Who am I? 🧐
 - I'm a beginner programmer.
 - I'm 15 y.o.
-- I worked with Python.
+- I worked with Python/C#.
 - I study C# at school.
 - Currently I attend Yandex intensive and study Django development there.
 - Trying to find a work for internship.
