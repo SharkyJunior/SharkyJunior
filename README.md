@@ -3,12 +3,13 @@
 ###### Who am I? 🧐
 - I'm a beginner programmer.
 - I'm 16 y.o.
-- I worked with Python/C#.
+- I worked with Python/C#/SQL.
 - I study C# at school.
 - Trying to find a work for internship.
 
 ###### My accomplishments:
 - I have successfully graduated from Yandex intensive about Django.
+- Presented a project at school (check Pushkin-telegram-bot)
 
 ###### My projects:
 - 🐸 Froggy. A multi-functional discord bot which is currently WIP and being rewritten on a different library.
