@@ -9,9 +9,10 @@
 - Python: Django, PyTorch, python-telegram-bot, discord.py
 - C#: Windows Forms
 
-###### My accomplishments:
+###### Аccomplishments:
 - I have successfully graduated from Yandex Django course.
 - Presented a project at school (check Pushkin-telegram-bot)
+- Participated in Sber AIIJC 2023 contest
 
 ###### My projects:
 - [Social Credit Bot](https://github.com/SharkyJunior/Social-Credit-bot) - A simple telegram bot that handles messages and manages users' social credit. Im too lazy to explain, its just a bot for a silly purpose.
