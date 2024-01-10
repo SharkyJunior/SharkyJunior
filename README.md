@@ -1,18 +1,19 @@
 ### Welcome to my profile! 👋
 
 ###### Who am I? 🧐
-- I'm a beginner programmer.
-- 16 y.o.
+- I'm a student programmer.
+- 17 y.o.
 - Trying to find a work for internship.
 
 ###### Experience
-- Python: Django, PyTorch, python-telegram-bot, discord.py
+- Python: Django, PyTorch, TensorFlow, Keras, python-opencv, python-telegram-bot, discord.py
 - C#: Windows Forms
 
 ###### Аccomplishments:
-- I have successfully graduated from Yandex Django course.
+- I have successfully graduated Yandex Django course.
 - Presented a project at school (check Pushkin-telegram-bot)
 - Participated in Sber AIIJC 2023 contest
+- Finalist of National Technical Olympyad 2023 ("Computer vision and digital services")
 
 ###### My projects:
 - [Social Credit Bot](https://github.com/SharkyJunior/Social-Credit-bot) - A simple telegram bot that handles messages and manages users' social credit. Im too lazy to explain, its just a bot for a silly purpose.
