@@ -14,6 +14,7 @@
 ###### Experience
 - Python: Django, PyTorch, TensorFlow, Keras, python-opencv, python-telegram-bot, discord.py
 - C#: Windows Forms
+- С++: CLI Programs
 
 ###### My projects:
 - [Social Credit Bot](https://github.com/SharkyJunior/Social-Credit-bot) - A simple telegram bot that handles messages and manages users' social credit. Im too lazy to explain, its just a bot for a silly purpose.
