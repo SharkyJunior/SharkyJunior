@@ -6,10 +6,11 @@
 - Trying to find a work for internship.
 
 ###### Аccomplishments:
-- I have successfully graduated Yandex Django course.
+- Successfully completed Yandex Django course.
 - Presented a project at school (check Pushkin-telegram-bot)
 - Participated in Sber AIIJC 2023 contest
 - Finalist of National Technical Olympyad 2023 ("Computer vision and digital services")
+- Attending Yandex ML course
 
 ###### Experience
 - Python: Django, PyTorch, TensorFlow, Keras, python-opencv, python-telegram-bot, discord.py
