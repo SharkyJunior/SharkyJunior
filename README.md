@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋
 
 ###### Who am I? 🧐
-- I'm a student programmer.
+- Student programmer.
 - 17 y.o.
 - Trying to find a work for internship.
 
