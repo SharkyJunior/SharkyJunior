@@ -1,8 +1,8 @@
 ### Welcome to my profile! 👋
 
 ###### Who am I? 🧐
-- Student programmer.
-- 17 y.o.
+- Student at Bauman Moscow State Technical University.
+- 18 y.o.
 - Trying to find a work for internship.
 
 ###### Аccomplishments:
@@ -10,17 +10,19 @@
 - Presented a project at school (check Pushkin-telegram-bot)
 - Participated in Sber AIIJC 2023 contest
 - Finalist of National Technical Olympyad 2023 ("Computer vision and digital services")
-- Attending Yandex ML course
+- Completed Yandex ML course
 
 ###### Experience
 - Python: Django, PyTorch, TensorFlow, Keras, python-opencv, python-telegram-bot, discord.py
 - C#: Windows Forms
 - С++: CLI Programs
+- C: CLI Programs
 
 ###### My projects:
+- [Pushking-telegram-bot](https://github.com/SharkyJunior/Pushkin-telegram-bot) - Telegram bot which helps people who visits Pushkin Museum in Moscow to identify artwork and get information about it with a single photo.
+- [Polygons](https://github.com/SharkyJunior/Polygons) - Windows Forms application for simulating convex hulls of polygons.
 - [Social Credit Bot](https://github.com/SharkyJunior/Social-Credit-bot) - A simple telegram bot that handles messages and manages users' social credit. Im too lazy to explain, its just a bot for a silly purpose.
 - [UniChoose](https://github.com/h4x4d/UniChoose) - website, which is trying to help Russian students choose a university to attend based on their exam marks.
-- [Pushking-telegram-bot](https://github.com/SharkyJunior/Pushkin-telegram-bot) - Telegram bot which helps people who visits Pushkin Museum in Moscow to identify artwork and get information about it with a single photo
 
 ###### My socials:
 - Telegram: @SharkyJunior
