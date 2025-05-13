@@ -3,10 +3,10 @@
 ###### Who am I? 🧐
 - Student at Bauman Moscow State Technical University.
 - 18 y.o.
-- Trying to find a work for internship.
+- Currently looking for an internship.
 
 ###### Аccomplishments:
-- Successfully completed Yandex Django course.
+- Successfully completed Yandex Django course (check UniChoose).
 - Presented a project at school (check Pushkin-telegram-bot)
 - Participated in Sber AIIJC 2023 contest
 - Finalist of National Technical Olympyad 2023 ("Computer vision and digital services")
