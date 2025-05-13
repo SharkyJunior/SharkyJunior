@@ -14,9 +14,12 @@
 
 ###### Experience
 - Python: Django, PyTorch, TensorFlow, Keras, python-opencv, python-telegram-bot, discord.py
-- C#: Windows Forms
+- C#: Windows Forms, WPF, ASP.NET
 - С++: CLI Programs
 - C: CLI Programs
+- SQL: PostgreSQL (in UniChoose)
+- MVC
+- RESTful API
 
 ###### My projects:
 - [Pushking-telegram-bot](https://github.com/SharkyJunior/Pushkin-telegram-bot) - Telegram bot which helps people who visits Pushkin Museum in Moscow to identify artwork and get information about it with a single photo.
