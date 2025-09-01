@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋
 
 ###### Who am I? 🧐
-- Student at Bauman Moscow State Technical University.
+- 2nd year student at Bauman Moscow State Technical University (Applied Informatics).
 - 18 y.o.
 - Currently looking for an internship.
 
@@ -14,7 +14,7 @@
 
 ###### Experience
 - Python: Django, PyTorch, TensorFlow, Keras, python-opencv, python-telegram-bot, discord.py
-- C#: Windows Forms, WPF, ASP.NET
+- C#: Windows Forms, WPF, ASP.NET Core
 - С++: CLI Programs
 - C: CLI Programs
 - SQL: PostgreSQL (in UniChoose)
@@ -28,6 +28,7 @@
 - [Social Credit Bot](https://github.com/SharkyJunior/Social-Credit-bot) - A simple telegram bot that handles messages and manages users' social credit. Im too lazy to explain, its just a bot for a silly purpose.
 
 ###### My socials:
+- Email: sharkevich.maxim@gmail.com
 - Telegram: @SharkyJunior
 
 ###### My stats:
