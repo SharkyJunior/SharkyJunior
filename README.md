@@ -2,6 +2,7 @@
 
 ###### Who am I? 🧐
 - 2nd year student at Bauman Moscow State Technical University (Applied Informatics).
+- Currently attending "Web development" course from VK Education.
 - 18 y.o.
 - Currently looking for an internship.
 
@@ -22,9 +23,10 @@
 - RESTful API
 
 ###### My projects:
-- [Pushking-telegram-bot](https://github.com/SharkyJunior/Pushkin-telegram-bot) - Telegram bot which helps people who visits Pushkin Museum in Moscow to identify artwork and get information about it with a single photo.
+- [Pushkin-telegram-bot](https://github.com/SharkyJunior/Pushkin-telegram-bot) - Telegram bot which helps people who visits Pushkin Museum in Moscow to identify artwork and get information about it with a single photo.
 - [Polygons](https://github.com/SharkyJunior/Polygons) - Windows Forms application for simulating convex hulls of polygons.
 - [UniChoose](https://github.com/h4x4d/UniChoose) - website, which is trying to help Russian students choose a university to attend based on their exam marks.
+- [Q&A Web Application](https://github.com/SharkyJunior/QnA-Web-Application) - Project for VK Education courses, written in Django.
 - [Social Credit Bot](https://github.com/SharkyJunior/Social-Credit-bot) - A simple telegram bot that handles messages and manages users' social credit. Im too lazy to explain, its just a bot for a silly purpose.
 
 ###### My socials:
