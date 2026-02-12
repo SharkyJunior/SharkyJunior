@@ -3,7 +3,7 @@
 ###### Who am I? 🧐
 - 2nd year student at Bauman Moscow State Technical University (Applied Informatics).
 - Currently attending "Web development" course from VK Education.
-- 18 y.o.
+- 19 y.o.
 - Currently looking for an internship.
 
 ###### Аccomplishments:
