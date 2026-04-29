@@ -11,7 +11,7 @@
 - Finalist of National Technical Olympyad 2023 ("Computer vision and digital services")
 - Successfully completed Yandex Django course (check UniChoose).
 
-###### Experience
+###### Knowledge
 - Go: net/http, goroutines, clean architecture, gomock, sqlmock, viper config, zap...
 - SQL: PostgreSQL
 - Frontend: React
