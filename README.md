@@ -12,10 +12,10 @@
 - Successfully completed Yandex Django course (check UniChoose).
 
 ###### Knowledge
-- Go: net/http, goroutines, clean architecture, gomock, sqlmock, viper config, zap...
+- Frontend: React, JSX/TSX, SCSS, Babel, Webpack
+- Go: net/http, clean architecture, gomock, sqlmock, viper config, zap...
 - SQL: PostgreSQL
-- Frontend: React
-- Docker, docker-compose, git, linux
+- Docker, docker-compose, git, linux, nginx
 - Python: Django, PyTorch, TensorFlow, Keras, python-opencv, python-telegram-bot, discord.py
 - C/C++
 - C#: Windows Forms, WPF
